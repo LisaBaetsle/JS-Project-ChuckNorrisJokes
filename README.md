@@ -18,7 +18,7 @@ This is a project for practicing AJAX and JSON.
   <dd>Skeleton</dd>    
     
   <dt>API</dt>
-  <dd>[Chuck Norris API](https://www.icndb.com/api/)</dd>    
+  <dd> Chuck Norris API: https://www.icndb.com/api/ </dd>    
       
   <dt>Code editor</dt>
   <dd>Visual Studio Code</dd>
