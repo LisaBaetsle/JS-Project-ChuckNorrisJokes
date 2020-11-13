@@ -2,7 +2,7 @@
 
 ## Motivation
 
-In this project, I created an Chuck Norris generator using an external API.
+In this project, I created a Chuck Norris generator using an external API.
 
 ## Details
 
